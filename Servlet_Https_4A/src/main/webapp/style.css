@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body
+{
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+	margin:100px 550px;
+	font-family:cursive;
+	color:spider;
+	text-align:center
+	  }
+h2
+{ text-decoration-line: underline;
+  text-decoration-color: spider;  
+  text-decoration-style: wavy; }
+form
+{
+	border-style: inset;
+	font-size:20px;
+	border-color: hotpink;
+	height:200px;
+	position:relative;
+	text-align:center;
+	padding:25px;
+}

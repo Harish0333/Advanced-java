@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body
+{
+	background-color:Hotpink;
+}
+h2
+{
+	color:white;
+	font-family:cursive;
+	text-align:center;
+	margin: 30px 60px;
+}
+form
+{
+		margin: 80px 560px;
+		font-family:cursive;
+		color:white;	
+}

@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body
+{
+	background: radial-gradient(pink,blue);
+}
+h2,h3
+{
+	color:spider;
+	text-align:center;
+	font-family:cursive;
+}
+form
+{
+	margin:90px 570px;
+	font-family:cursive;
+	font-style:bold;
+	border-style: solid;
+  	border-color: red green blue;
+}
