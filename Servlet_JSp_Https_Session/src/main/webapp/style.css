@@ -1,0 +1,60 @@
+@charset "UTF-8";
+body
+{
+	background-image:url('waves.jpg');
+	background-repeat:norepeat;
+	background-size:cover;
+	margin:150px 450px;
+	font-family:cursive;
+}
+p
+{
+	color:darkblue;
+}
+h5
+{
+	color:green;
+}
+a,h3
+{
+	color:#302496;
+	text-decoration:none;
+	font-family:cursive;
+}
+form
+{
+	background-image:conic-gradient(from 36deg at 20% 80%,#59b1f0 0%,#000000 25%,#c59fe0 30%);
+	padding: 50px 30px 50px 80px;
+	letter-spacing:3px;
+	border-style:groove;
+	border-radius:15px ;
+	width:300px;
+	height:200px;
+	font-family:cursive;
+}
+div
+{
+	background-image:conic-gradient(from 36deg at 20% 80%,#59b1f0 0%,#000000 25%,#c59fe0 30%);
+	padding: 20px 20px;
+	letter-spacing:3px;
+	border-style:groove;
+	border-radius:15px ;
+	width:350px;
+	height:250px;
+	font-family:cursive;
+}
+input[type=submit]
+{
+	border:none;
+	border-radius:5px;
+	font-family:cursive;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.40),0 17px 50px 0 rgba(0,0,0,0.40);
+}
+input[type=text],[type=password]
+{
+	border-radius:5px;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.40),0 17px 50px 0 rgba(0,0,0,0.40);
+	border:none;
+	width:200px;
+	height:20px;
+}
