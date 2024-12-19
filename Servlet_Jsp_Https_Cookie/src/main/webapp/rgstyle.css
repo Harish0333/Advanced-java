@@ -1,0 +1,49 @@
+@charset "UTF-8";
+body
+{
+	background-repeat: no-repeat;
+	background-image:url('rainbow.jpg');
+	background-size: cover;
+	margin:50px 500px;
+	color:white;
+	
+}
+form
+{
+	background-image: conic-gradient(pink, skyblue, violet, blue, pink);
+	border-style: ridge;  
+	border-radius: 12px;
+	padding:20px 100px 50px 80px;
+	line-height: 1.6;
+	height: 435px;
+}
+h3
+{
+	background-image: linear-gradient(to right, rgba(255,0,0,0), #c72883);
+	text-align:center;
+	margin:10px 10px;
+}
+input[type=text],[type=password]
+{
+	border-radius:5px;
+	border:none;
+	width:200px;
+	height:20px;
+}
+input[type=submit]
+{
+	border-radius:5px;
+	border:none;
+	font-family:cursive;
+}
+a
+{
+	background-image: conic-gradient(pink, skyblue, violet, blue, pink);
+	border-style: groove;
+	border-radius: 12px;
+	text-decoration:none;
+	margin:100px;
+	padding:3px;
+	color:#fafbfc;
+}
+
